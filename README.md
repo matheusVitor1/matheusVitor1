@@ -2,24 +2,31 @@
 <div align="center">
   <a href="https://github.com/matheusVitor1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusVitor1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-</div>
+ </div>
+  
+  ##  
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Matheus-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Matheus-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Matheus-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
+  <img align="center" alt="Matheus-wordpress" height="40" width="100" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+
+</div> 
+ 
+## 
+  
+</div> 
   <img align="center" alt="Matheus-Azure" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Matheus-linux" height="40" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Matheus-windows" height="40" width="70" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center" alt="Matheus-excel" height="40" width="120" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">   
-  <img align="center" alt="Matheus-wordpress" height="40" width="100" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-  
-</div>   
+  <img align="center" alt="Matheus-excel" height="40" width="120" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  
+</div> 
     
     
  ## Auxiliares para aprendizado:
- </div>
+
+</div>
   <img align="center" alt="Matheus-udemy" height="40" width="100" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
  
  </div> 
