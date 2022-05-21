@@ -1,4 +1,4 @@
-## Olá eu sou Matheus Vitor, Estudante de Análise e Desenvolvimento de sistemas na Faculdade Senai de Tecnologia Armando de Arruda!
+## Olá eu sou Matheus Vitor, Estudante de Análise e Desenvolvimento de sistemas na Faculdade Senai de Tecnologia Armando de Arruda.
 <div align="center">
   <a href="https://github.com/matheusVitor1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusVitor1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
