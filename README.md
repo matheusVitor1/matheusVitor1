@@ -1,4 +1,5 @@
-## Olá sou Matheus Vitor, Estudante de Análise e Desenvolvimento de sistemas na Faculdade Senai de Tecnologia Armando de Arruda.
+## Olá sou Matheus Vitor! 
+## Curso: Análise e Desenvolvimento de Sistemas - Faculdade Senai de Tecnologia (012022 - 12/2023)
 <div align="center">
   <a href="https://github.com/matheusVitor1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusVitor1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
