@@ -1,16 +1,22 @@
-### Hi there 👋
+package apresentation.git;
 
-<!--
-**matheusVitor1/matheusVitor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+public class git {
 
-Here are some ideas to get you started:
+    public static void main(String[] args) {
+        System.out.println("Olá, Meu nome é Matheus Vitor\n");
+        boolean bachelorDegree = true, period = true, institution = true;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        if (bachelorDegree == true && period == true && institution == true) {
+            System.out.println("Analise e Desenvolvimento de Sistemas");
+            System.out.println("1° Semestre - término para 12/2023");
+            System.out.println("Faculdade senai de tecnologia Armando de Arruda Pereira\n");
+            /*Segunda formação*/
+            System.out.println("Engenharia da Computação");
+            System.out.println("5° Semestre - Trancado");
+            System.out.println("Faculdade Anhembi Morumbi");
+
+        }
+
+    }
+
+}
